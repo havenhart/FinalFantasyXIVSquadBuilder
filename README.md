@@ -6,9 +6,13 @@ You can get these values from the training board / roster / mission list.
 ## Technologies Used
 Sveltjs3
 
+C#
+
 .NET Core 3.0
 
 .NET Standard 2.1
+
+Web API 2
 
 Sqlite
 
