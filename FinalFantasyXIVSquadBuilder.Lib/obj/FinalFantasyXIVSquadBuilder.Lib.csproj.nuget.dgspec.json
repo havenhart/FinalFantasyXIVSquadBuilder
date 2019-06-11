@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj": {}
+  },
+  "projects": {
+    "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj",
+        "projectName": "FinalFantasyXIVSquadBuilder.Lib",
+        "projectPath": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj",
+        "packagesPath": "C:\\Users\\jigga\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jigga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.110, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
