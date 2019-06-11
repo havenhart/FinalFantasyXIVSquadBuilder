@@ -19,4 +19,5 @@ Bootstrap 4
 ## TODO
 1. Store Attribute values to localStorage and retreive them on init if they exist
 2. Calculate the proper squad members and highlight them
-3. Make a deployed instance
+3. Project Cleanup and refactoring
+4. Make a deployed instance
