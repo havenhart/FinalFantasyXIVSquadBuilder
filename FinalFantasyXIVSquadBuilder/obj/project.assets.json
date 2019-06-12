@@ -12691,11 +12691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.WebUI.csproj",
       "projectName": "FinalFantasyXIVSquadBuilder.WebUI",
-      "projectPath": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.WebUI.csproj",
+      "projectPath": "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.WebUI.csproj",
       "packagesPath": "C:\\Users\\jigga\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder\\obj\\",
+      "outputPath": "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -12722,8 +12722,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj": {
-              "projectPath": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj"
+            "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj": {
+              "projectPath": "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj"
             }
           }
         }

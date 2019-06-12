@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj": {}
+    "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj": {}
   },
   "projects": {
-    "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj": {
+    "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj",
         "projectName": "FinalFantasyXIVSquadBuilder.Lib",
-        "projectPath": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj",
+        "projectPath": "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\FinalFantasyXIVSquadBuilder.Lib.csproj",
         "packagesPath": "C:\\Users\\jigga\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\obj\\",
+        "outputPath": "C:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

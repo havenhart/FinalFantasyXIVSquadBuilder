@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\repos\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.WebUI.csproj",
+  "FilePath": "c:\\Users\\jigga\\source\\repos\\jiggadias\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder\\FinalFantasyXIVSquadBuilder.WebUI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2681,28 +2681,13 @@
   "RootNamespace": "FinalFantasyXIVSquadBuilder.WebUI",
   "Documents": [
     {
-      "FilePath": "Pages\\Contact.cshtml",
-      "TargetPath": "Pages\\Contact.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Pages\\About.cshtml",
-      "TargetPath": "Pages\\About.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2713,11 +2698,6 @@
     {
       "FilePath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {

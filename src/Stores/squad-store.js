@@ -28,7 +28,7 @@ const squad = {
     updateSquadron: (id, memberData) => {
         appSquadStore.update(members => {
             const idx = members.findIndex(m => m.id === id);
-            const member = {...members[idx]};
+            const member = members[idx];
             const updatedMembers = [...members];
             updatedMembers[idx] = {
                 id: member.id,
@@ -46,8 +46,6 @@ const squad = {
 
             return updatedMembers;
         });
-
-
     }
 };
 

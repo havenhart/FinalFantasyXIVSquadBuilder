@@ -7,3 +7,12 @@ C:\repos\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\obj\Debug\n
 C:\repos\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\bin\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.pdb
 C:\repos\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\obj\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.dll
 C:\repos\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\obj\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.pdb
+C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\bin\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.deps.json
+C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\bin\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.dll
+C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\bin\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.pdb
+C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\obj\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.csprojAssemblyReference.cache
+C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\obj\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.csproj.CoreCompileInputs.cache
+C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\obj\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.AssemblyInfoInputs.cache
+C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\obj\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.AssemblyInfo.cs
+C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\obj\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.dll
+C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder.Lib\obj\Debug\netstandard2.0\FinalFantasyXIVSquadBuilder.Lib.pdb

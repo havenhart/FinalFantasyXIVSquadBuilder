@@ -84,11 +84,11 @@ $:if(selectedID !== currentId){
                         </div>
                         <div class="form-group col-md-4">
                             <label for="mentalScore">Mental:</label>
-                            <input type="text" class="form-control" id="mentalScore" placeholder="0" bind:value={mental}>
+                            <input type="number" class="form-control" id="mentalScore" placeholder="0" bind:value={mental}>
                         </div>
                         <div class="form-group col-md-4">
                             <label for="tacticalScore">Tactical:</label>
-                            <input type="text" class="form-control" id="tacticalScore" placeholder="0" bind:value={tactical}>
+                            <input type="number" class="form-control" id="tacticalScore" placeholder="0" bind:value={tactical}>
                         </div>
                         <div class="col-md-12">							
                             <button class="btn btn-secondary float-right" on:click|preventDefault={clearForm}>Cancel</button>
