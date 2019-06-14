@@ -3,6 +3,7 @@
 	export let memberId = 0;
 	export let selected = false;
 	export let active = false;
+	export let needsTraining = false;
 
 	$:member = $squad.find(s => s.id === memberId);
 
@@ -25,9 +26,13 @@
 	.activemember  {
 		background-color: cyan !important;
     }
+
+	.standbymember {
+		background-color: orange !important;
+	}
 </style>
 
-<li class="list-group-item squadmember" class:selectedmember="{selected}" class:activemember="{active}" on:click>
+<li class="list-group-item squadmember" class:selectedmember="{selected}" class:activemember="{active}" class:standbymember="{needsTraining && active}" on:click>
     <b>{member.name}</b><br>
     P: {member.physical} / M: {member.mental} / T: {member.tactical}		
 </li>

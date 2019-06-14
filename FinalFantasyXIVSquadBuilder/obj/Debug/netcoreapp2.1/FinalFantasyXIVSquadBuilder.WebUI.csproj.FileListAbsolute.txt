@@ -52,11 +52,7 @@ C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXI
 C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\FinalFantasyXIVSquadBuilder.WebUI.TagHelpers.input.cache
 C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\FinalFantasyXIVSquadBuilder.WebUI.TagHelpers.output.cache
 C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\FinalFantasyXIVSquadBuilder.WebUI.RazorCoreGenerate.cache
-C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
-C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
-C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\jigga\source\repos\jiggadias\FinalFantasyXIVSquadBuilder\FinalFantasyXIVSquadBuilder\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs

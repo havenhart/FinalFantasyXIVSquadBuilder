@@ -3285,7 +3285,7 @@
           }
         }
       },
-      "System.Data.SQLite.Core/1.0.110": {
+      "System.Data.SQLite.Core/1.0.111": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/System.Data.SQLite.dll": {}
@@ -4658,7 +4658,8 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Dapper": "1.60.6",
-          "System.Data.SQLite.Core": "1.0.110"
+          "Newtonsoft.Json": "12.0.2",
+          "System.Data.SQLite.Core": "1.0.111"
         },
         "compile": {
           "bin/placeholder/FinalFantasyXIVSquadBuilder.Lib.dll": {}
@@ -8671,10 +8672,10 @@
         "version.txt"
       ]
     },
-    "System.Data.SQLite.Core/1.0.110": {
-      "sha512": "bFx7Jnn/AlfVobpTnKreroh8jItM4eyLz/ZQRhzxYHZ71gqlGgU8y2nSNFnqVaSNu2bAWBf6m3yNyvp9uIhOoA==",
+    "System.Data.SQLite.Core/1.0.111": {
+      "sha512": "D7Qo3JWUB6epymTVRNaAXt+Y+eh0juGjXb5q8SEp/LBdKJr6a224Mk0HCOemRsXfPIF8ULblPyCbVixUvfbpiw==",
       "type": "package",
-      "path": "system.data.sqlite.core/1.0.110",
+      "path": "system.data.sqlite.core/1.0.111",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -8715,7 +8716,7 @@
         "runtimes/osx-x64/native/netstandard2.0/SQLite.Interop.dll",
         "runtimes/win-x64/native/netstandard2.0/SQLite.Interop.dll",
         "runtimes/win-x86/native/netstandard2.0/SQLite.Interop.dll",
-        "system.data.sqlite.core.1.0.110.nupkg.sha512",
+        "system.data.sqlite.core.1.0.111.nupkg.sha512",
         "system.data.sqlite.core.nuspec"
       ]
     },

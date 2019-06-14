@@ -45,6 +45,20 @@ const squad = {
             }
 
             return updatedMembers;
+        });        
+    },
+    activate: (details) => {
+        appSquadStore.update(members => {
+            for(let i = 0; i < members.length; i++){
+                members[i].active = false;
+            }
+
+            if(details.member1 > -1){ members[details.member1].active = true; }
+            if(details.member2 > -1){ members[details.member2].active = true; }
+            if(details.member3 > -1){ members[details.member3].active = true; }
+            if(details.member4 > -1){ members[details.member4].active = true; }
+
+            return members;
         });
     }
 };

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "7015b0b2ecadd43dfeaf34009daa96277f8475e4"
+    "signature": "c1b03d07a6e86f26dc863e5167c3bcf9ab68f502"
   },
   "compilationOptions": {
     "defines": [
@@ -529,11 +529,11 @@
           "lib/netstandard1.0/System.Composition.TypedParts.dll": {}
         }
       },
-      "System.Data.SQLite.Core/1.0.110": {
+      "System.Data.SQLite.Core/1.0.111": {
         "runtime": {
           "lib/netstandard2.0/System.Data.SQLite.dll": {
-            "assemblyVersion": "1.0.110.0",
-            "fileVersion": "1.0.110.0"
+            "assemblyVersion": "1.0.111.0",
+            "fileVersion": "1.0.111.0"
           }
         },
         "runtimeTargets": {
@@ -550,12 +550,12 @@
           "runtimes/win-x64/native/netstandard2.0/SQLite.Interop.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "1.0.110.0"
+            "fileVersion": "1.0.111.0"
           },
           "runtimes/win-x86/native/netstandard2.0/SQLite.Interop.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "1.0.110.0"
+            "fileVersion": "1.0.111.0"
           }
         },
         "compile": {
@@ -580,7 +580,8 @@
       "FinalFantasyXIVSquadBuilder.Lib/1.0.0": {
         "dependencies": {
           "Dapper": "1.60.6",
-          "System.Data.SQLite.Core": "1.0.110"
+          "Newtonsoft.Json": "12.0.2",
+          "System.Data.SQLite.Core": "1.0.111"
         },
         "runtime": {
           "FinalFantasyXIVSquadBuilder.Lib.dll": {}
@@ -3713,12 +3714,12 @@
       "path": "system.composition.typedparts/1.0.31",
       "hashPath": "system.composition.typedparts.1.0.31.nupkg.sha512"
     },
-    "System.Data.SQLite.Core/1.0.110": {
+    "System.Data.SQLite.Core/1.0.111": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-bFx7Jnn/AlfVobpTnKreroh8jItM4eyLz/ZQRhzxYHZ71gqlGgU8y2nSNFnqVaSNu2bAWBf6m3yNyvp9uIhOoA==",
-      "path": "system.data.sqlite.core/1.0.110",
-      "hashPath": "system.data.sqlite.core.1.0.110.nupkg.sha512"
+      "sha512": "sha512-D7Qo3JWUB6epymTVRNaAXt+Y+eh0juGjXb5q8SEp/LBdKJr6a224Mk0HCOemRsXfPIF8ULblPyCbVixUvfbpiw==",
+      "path": "system.data.sqlite.core/1.0.111",
+      "hashPath": "system.data.sqlite.core.1.0.111.nupkg.sha512"
     },
     "System.Linq.Parallel/4.3.0": {
       "type": "package",

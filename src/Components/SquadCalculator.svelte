@@ -2,6 +2,8 @@
     import { createEventDispatcher } from"svelte";
     import squadConfig from "../Stores/configuration-store.js";
 
+    export let activeSquadTotals = { physical: 0, mental: 0, tactical: 0, training: 'None' };
+
     const dispatch = createEventDispatcher();
 
     $:squadatt = $squadConfig.find(s => s.name === "Squadron") || {physical: 0, mental: 0, tactical: 0}
@@ -69,17 +71,17 @@
         <div class="form-row">
             <div class="form-group col-md-4">
                 <label for="physicalScore">Physical:</label>
-                <input type="text" class="form-control" id="physicalScore" placeholder="0" readonly>
+                <input type="text" class="form-control" id="physicalScore" placeholder="0" readonly bind:value={activeSquadTotals.physical}>
             </div>
             <div class="form-group col-md-4">
                 <label for="mentalScore">Mental:</label>
-                <input type="text" class="form-control" id="mentalScore" placeholder="0" readonly>
+                <input type="text" class="form-control" id="mentalScore" placeholder="0" readonly bind:value={activeSquadTotals.mental}>
             </div>
             <div class="form-group col-md-4">
                 <label for="tacticalScore">Tactical:</label>
-                <input type="text" class="form-control" id="tacticalScore" placeholder="0" readonly>
+                <input type="text" class="form-control" id="tacticalScore" placeholder="0" readonly bind:value={activeSquadTotals.tactical}>
             </div>
         </div>
-        <b>Recommended Training:</b>
+        <b>Recommended Training:<br>{activeSquadTotals.training}</b>
     </div>
 </div>
