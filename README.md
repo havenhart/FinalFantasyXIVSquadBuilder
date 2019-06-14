@@ -8,9 +8,9 @@ Sveltjs3
 
 C#
 
-.NET Core 3.0
+.NET Core 2.1
 
-.NET Standard 2.1
+.NET Standard 2.0
 
 Web API 2
 
@@ -21,7 +21,4 @@ Dapper
 Bootstrap 4
 
 ## TODO
-1. Store Attribute values to localStorage and retreive them on init if they exist
-2. Calculate the proper squad members and highlight them
-3. Project Cleanup and refactoring
-4. Make a deployed instance
+1. Make a deployed instance
